@@ -26,16 +26,16 @@
   },
   "homepage": "https://github.com/SerjoPepper/bot-brother#readme",
   "dependencies": {
-    "bluebird": "^2.9.34",
+    "bluebird": "^3.3.5",
     "botanio": "0.0.6",
-    "dot-object": "^1.1.0",
-    "ejs": "^2.3.3",
+    "dot-object": "^1.4.1",
+    "ejs": "^2.4.1",
     "json-fn": "^0.60.0",
-    "lodash": "^3.10.1",
-    "node-emoji": "^1.0.3",
-    "node-telegram-bot-api": "git+https://github.com/SerjoPepper/node-telegram-bot-api.git#master",
-    "redis": "^0.12.1",
-    "underscore.string": "^3.1.1"
+    "lodash": "^4.11.1",
+    "node-emoji": "^1.3.0",
+    "node-telegram-bot-api": "serjopepper/node-telegram-bot-api",
+    "redis": "^2.5.3",
+    "underscore.string": "^3.3.4"
   },
   "devDependencies": {
     "coffeelint": "^1.10.1",
